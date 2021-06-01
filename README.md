@@ -55,6 +55,9 @@
   </tbody>
 </table>
 
+
+[![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=acdavitt)](https://github.com/acdavitt/github-readme-stats)
+
 <!--
 **acdavitt/acdavitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
