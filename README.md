@@ -45,7 +45,7 @@
       </td>
     </tr>
     <tr>
-      <td>Deployment and Testing</td>
+      <td>Deployment & Testing</td>
       <td>
         <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
         <img alt="GitHub Actions" src="https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
