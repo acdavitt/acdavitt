@@ -1,6 +1,5 @@
 # Hello, I'm Amanda Davitt 👋
 
-## I enjoy building full stack web applications that enhance the lives of others!
 ### Based in Austin, Texas 🌵 ☀️
 
 ## Technologies
